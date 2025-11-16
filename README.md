@@ -9,9 +9,11 @@ Computer Science student at Université Paris Cité, passionate about AI and Mac
 ## Learning Path
 
 ### November 2025
-- ✅ Kaggle: Intro to Machine Learning
+✅ Kaggle: Intro to Machine Learning
   - Lesson 1: How Models Work
   - Lesson 2: Basic Data Exploration
+    - Step 1: Loading data 
+    - Step 2: Review data with .describe() 
 
 ## Next Steps
 - Complete Kaggle ML course
