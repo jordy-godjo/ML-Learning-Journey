@@ -15,6 +15,7 @@ Computer Science student at Université Paris Cité, passionate about AI and Mac
   - Lesson 3: Your First Machine Learning Model 
   - Lesson 4: Model Validation 
   - Lesson 5: Underfitting and Overfitting
+  - Lesson 6: Random Forests
 
 ## Next Steps
 - Complete Kaggle ML course
