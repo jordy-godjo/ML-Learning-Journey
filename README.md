@@ -11,9 +11,10 @@ Computer Science student at Université Paris Cité, passionate about AI and Mac
 ### November 2025
 ✅ Kaggle: Intro to Machine Learning
   - Lesson 1: How Models Work
-  - Lesson 2: Basic Data Exploration
-    - Step 1: Loading data 
-    - Step 2: Review data with .describe() 
+  - Lesson 2: Basic Data Exploration 
+  - Lesson 3: Your First Machine Learning Model 
+  - Lesson 4: Model Validation 
+  - Lesson 5: Underfitting and Overfitting
 
 ## Next Steps
 - Complete Kaggle ML course
