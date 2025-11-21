@@ -17,6 +17,7 @@ Computer Science student at Université Paris Cité, passionate about AI and Mac
   - Lesson 5: Underfitting and Overfitting
   - Lesson 6: Random Forests
   - Lesson 7: Machine Learning competition (end)
+  - in revesion my lesson 7 machine learning competition
 
 ## Next Steps
 - Complete Kaggle ML course
