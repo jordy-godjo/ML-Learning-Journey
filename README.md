@@ -18,6 +18,8 @@ Computer Science student at Université Paris Cité, passionate about AI and Mac
   - Lesson 6: Random Forests
   - Lesson 7: Machine Learning competition (end)
   - in revesion my lesson 7 machine learning competition (always)
+  - Today is my competition; coming with result
+  - 
 
 ## Next Steps
 - Complete Kaggle ML course
