@@ -19,7 +19,7 @@ Computer Science student at Université Paris Cité, passionate about AI and Mac
   - Lesson 7: Machine Learning competition (end)
   - in revesion my lesson 7 machine learning competition (always)
   - Today is my competition; coming with result
-  - 
+  - Competition done! Waiting for result...
 
 ## Next Steps
 - Complete Kaggle ML course
