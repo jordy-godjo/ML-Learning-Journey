@@ -22,6 +22,7 @@ Computer Science student at Université Paris Cité, passionate about AI and Mac
   - Competition done! Waiting for result...
     -Waitingggggggggggggggggggggg
     -Againnnnnnnnnnnnnnnnnnn
+ - Done, I have my certification 
 
 ## Next Steps
 - Complete Kaggle ML course
