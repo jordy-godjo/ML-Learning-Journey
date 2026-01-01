@@ -24,6 +24,8 @@ Computer Science student at Université Paris Cité, passionate about AI and Mac
     -Againnnnnnnnnnnnnnnnnnn
  - Done, I have my certification 
 
+Check it on the certification file
+
 ## Next Steps
 - Complete Kaggle ML course
 - Build first ML project
