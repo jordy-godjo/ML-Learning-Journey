@@ -4,7 +4,7 @@ Just me documenting my Machine Learning learning journey - From beginner to Mast
 **Started:** November 2025
 
 ## About Me
-Computer Science student at Université Paris Cité, passionate about AI and Machine Learning.
+Computer Science student at Université Paris, passionate about AI and Machine Learning.
 
 ## Learning Path
 
