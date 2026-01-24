@@ -30,7 +30,6 @@ Check it on the certification file
 ## Currently
 - Build first ML project
 
- 
 ## Next Steps
 - Apply to Master's programs
 
